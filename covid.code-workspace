@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../html"
+		},
+		{
+			"path": "../lab program"
+		},
+		{
+			"path": "../c++"
+		},
+		{
+			"path": "../c program"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html",
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
